@@ -1,0 +1,7 @@
+# Copyright 2022 Manna Harbour
+# https://github.com/manna-harbour/miryoku
+
+outboard_repository=andrgram/zmk-config
+outboard_ref=main
+outboard_from=boards/shields/overcooked
+outboard_to=boards/shields/overcooked
